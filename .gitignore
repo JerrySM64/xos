@@ -1,1 +1,5 @@
 syslinux/splash.png
+build/*
+out/*
+build/x86_64/airootfs/usr/lib/systemd/system/system-systemd\x2dcryptsetup.slice
+build/x86_64/airootfs/usr/lib/systemd/system/system-systemd\x2dveritysetup.slice
